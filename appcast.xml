@@ -3,23 +3,12 @@
     <channel>
         <title>Minimized</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 10 Aug 2026 22:40:29 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Wed, 12 Aug 2026 01:51:13 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/brianqsmith/minimized/releases/download/v1.0.1/Minimized-1.0.1.dmg" length="3848620" type="application/octet-stream"/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/brianqsmith/minimized/releases/download/v1.0.1/Minimized2-1.delta" sparkle:deltaFrom="1" length="1298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C/VIRK0YR+PVYQTaDoDBb2Sm4Pm4EezkkLqLsScALNe+BnC7snngL9AlrNmqtRepJfS7mKos4AdcFLGbbwVsAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 10 Aug 2026 21:37:59 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/brianqsmith/minimized/releases/download/v1.0.1/Minimized-1.0.0.dmg" length="3848673" type="application/octet-stream" sparkle:edSignature="szDkJVFZtDlPiWRhglErbVVicn6KX8gx23Qe51dy+g54CKTPhE2jeLzx+CIFko7EGT7NJOR2VFOAD+mZuVg8Aw=="/>
+            <enclosure url="https://raw.githubusercontent.com/brianqsmith/minimized/main/releases/Minimized-1.0.2.dmg" length="3850928" type="application/octet-stream" sparkle:edSignature="yJKUuAZyZH3y5I5k05s5mqsOmfQeyNPVOmxmh1RHkOzxH47k3AdqaGEaQzNNW/LJzwyy0bu6owMY/2o4k+KSCw=="/>
         </item>
     </channel>
 </rss>
