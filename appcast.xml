@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/brianqsmith/minimized/releases/download/v1.0.1/Minimized-1.0.1.dmg" length="3848620" type="application/octet-stream"/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/brianqsmith/minimized/releases/download/v1.0.1/Minimized2-1.delta" sparkle:deltaFrom="1" length="1294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oe/BRvEEFJIIsmnFEx1FESvEF+HZu8Oz3PhmQqpp0A2QRukpkRhw8mTAIpU/6iOdD7oyod4ONKTMtTMLpnWhCg=="/>
+                <enclosure url="https://github.com/brianqsmith/minimized/releases/download/v1.0.1/Minimized2-1.delta" sparkle:deltaFrom="1" length="1298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C/VIRK0YR+PVYQTaDoDBb2Sm4Pm4EezkkLqLsScALNe+BnC7snngL9AlrNmqtRepJfS7mKos4AdcFLGbbwVsAg=="/>
             </sparkle:deltas>
         </item>
         <item>
