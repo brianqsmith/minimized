@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/brianqsmith/minimized/main/releases/Minimized-1.0.2.dmg" length="3850928" type="application/octet-stream" sparkle:edSignature="yJKUuAZyZH3y5I5k05s5mqsOmfQeyNPVOmxmh1RHkOzxH47k3AdqaGEaQzNNW/LJzwyy0bu6owMY/2o4k+KSCw=="/>
+            <enclosure url="https://github.com/brianqsmith/minimized/releases/download/v1.0.2/Minimized-1.0.2.dmg" length="3850928" type="application/octet-stream" sparkle:edSignature="yJKUuAZyZH3y5I5k05s5mqsOmfQeyNPVOmxmh1RHkOzxH47k3AdqaGEaQzNNW/LJzwyy0bu6owMY/2o4k+KSCw=="/>
         </item>
     </channel>
 </rss>
